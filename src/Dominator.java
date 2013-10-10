@@ -1,4 +1,9 @@
 
+/*
+ * Determine if any value in an array is the majority of the elements
+ * i.e. greater than N/2 elements
+ * return -1 if no majority exists
+ */
 public class Dominator {
 
 	public static void main(String[] args) {
